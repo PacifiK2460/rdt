@@ -1,0 +1,10 @@
+[package]
+name = "rdt"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+requestty = "0.4.1"
+which = "4.3.0"
