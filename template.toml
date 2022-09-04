@@ -1,0 +1,3 @@
+[[directories]]
+pretty_name = "My Documents"
+path = "C:\Users\%USERNAME%\Documents"
